@@ -1,0 +1,32 @@
+.passwordCheck{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    position: fixed;
+    top: 260px;
+    left: 670px;
+}
+.confirmCheck{
+    position: fixed;
+    top: 318px;
+    left: 670px;
+}
+.moveRight{
+    position: relative;
+    left: 300px;
+}
+.forgetCheck{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    position: fixed;
+    top: 120px;
+    right: 350px;
+}
+.forgetConfirm{
+    position: fixed;
+    top: 180px;
+    right: 390px;
+}

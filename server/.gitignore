@@ -1,0 +1,6 @@
+/node_modules
+.env
+env.js
+/utility/id_rsa_priv.pem
+/utility/id_rsa_pub.pem
+/uploads
